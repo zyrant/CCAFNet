@@ -1,5 +1,5 @@
 Code and result about CCAFNet(IEEE TMM)<br>
-'CCAFNet: Crossflow and Cross-scale Adaptive Fusion Network for Detecting Salient Objects in RGB-D Images' [IEEE](https://ieeexplore.ieee.org/document/9424966)
+'CCAFNet: Crossflow and Cross-scale Adaptive Fusion Network for Detecting Salient Objects in RGB-D Images' [IEEE TMM](https://ieeexplore.ieee.org/document/9424966)
 
 
 # Dataset
