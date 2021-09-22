@@ -1,9 +1,11 @@
 Code and result about CCAFNet(IEEE TMM)<br>
+![image](https://user-images.githubusercontent.com/38373305/134313486-f347b60a-3301-45f0-a22f-b9bdebf2b064.png)
+
 'CCAFNet: Crossflow and Cross-scale Adaptive Fusion Network for Detecting Salient Objects in RGB-D Images' [IEEE TMM](https://ieeexplore.ieee.org/document/9424966)
 
 
 # Dataset
-The complete RGB-D SOD Datasets can be found in:
+RGB-D SOD Datasets can be found in:
 
 http://dpfan.net/d3netbenchmark/  or https://github.com/jiwei0921/RGBD-SOD-datasets
 
