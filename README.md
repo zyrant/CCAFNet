@@ -16,15 +16,12 @@ Pretrained model download:[百度网盘](https://pan.baidu.com/s/1reGFvIYX7rZjzK
 PS: we resize the testing data to the size of 224 * 224 for quicky evaluate, [百度网盘](https://pan.baidu.com/s/1t5cES-RAnMCLJ76s9bwzmA) 提取码：zust <br>
 
 # Citation
-@ARTICLE{9424966,
-  author={Zhou, Wujie and Zhu, Yun and Lei, Jingsheng and Wan, Jian and Yu, Lu},
-  journal={IEEE Transactions on Multimedia}, 
-  title={CCAFNet: Crossflow and Cross-scale Adaptive Fusion Network for Detecting Salient Objects in RGB-D Images}, 
-  year={2021},
-  volume={},
-  number={},
-  pages={1-1},
-  doi={10.1109/TMM.2021.3077767}}
+@ARTICLE{9424966,<br>
+  author={Zhou, Wujie and Zhu, Yun and Lei, Jingsheng and Wan, Jian and Yu, Lu},<br>
+  journal={IEEE Transactions on Multimedia}, <br>
+  title={CCAFNet: Crossflow and Cross-scale Adaptive Fusion Network for Detecting Salient Objects in RGB-D Images}, <br>
+  year={2021},<br>
+  doi={10.1109/TMM.2021.3077767}}<br>
 
 # Acknowledgement
 The implement this project based on the code of ‘Cascaded Partial Decoder for Fast and Accurate Salient Object Detection, CVPR2019’and 'BBS-Net: RGB-D Salient Object Detection with a Bifurcated Backbone Strategy Network' proposed by Wu et al and Deng et al.
