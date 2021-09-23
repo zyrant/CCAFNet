@@ -222,7 +222,7 @@ class test_dataset:
         self.depths_transform = transforms.Compose([
             transforms.Resize((self.testsize, self.testsize)),
              transforms.ToTensor(),
-             # transforms.Normalize([0.485], [0.229])
+             transforms.Normalize([0.485], [0.229])
         ])
         self.size = len(self.images)
         self.index = 0
