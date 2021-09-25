@@ -12,7 +12,7 @@ we use the matlab verison provide by Dengping Fan, and we provide our test dates
 
 # Result
 ![image](https://user-images.githubusercontent.com/38373305/134769121-0360bdc1-3504-432a-9869-b08d74ca562f.png)
-![image](https://user-images.githubusercontent.com/38373305/134769133-ab73247c-ac8c-4842-b737-7f8ea67c4e63.png)
+![image](https://user-images.githubusercontent.com/38373305/134769150-068d21a5-f44f-47b6-a8cd-fd4540c5ae21.png)
 
 Test maps: [百度网盘](https://pan.baidu.com/s/1QcEAHlS8llyX-i3kX4npAA)  提取码：zust <br>
 Pretrained model download:[百度网盘](https://pan.baidu.com/s/1reGFvIYX7rZjzKuaDcs-3A)  提取码：zust <br>
