@@ -11,6 +11,9 @@ RGB-D SOD Datasets can be found in:  http://dpfan.net/d3netbenchmark/  or https:
 we use the matlab verison provide by Dengping Fan, and we provide our test datesets [百度网盘](https://pan.baidu.com/s/1tVJCWRwqIoZQ3KAplMSHsA) 提取码：zust 
 
 # Result
+![image](https://user-images.githubusercontent.com/38373305/134769121-0360bdc1-3504-432a-9869-b08d74ca562f.png)
+![image](https://user-images.githubusercontent.com/38373305/134769133-ab73247c-ac8c-4842-b737-7f8ea67c4e63.png)
+
 Test maps: [百度网盘](https://pan.baidu.com/s/1QcEAHlS8llyX-i3kX4npAA)  提取码：zust <br>
 Pretrained model download:[百度网盘](https://pan.baidu.com/s/1reGFvIYX7rZjzKuaDcs-3A)  提取码：zust <br>
 PS: we resize the testing data to the size of 224 * 224 for quicky evaluate, [百度网盘](https://pan.baidu.com/s/1t5cES-RAnMCLJ76s9bwzmA)  提取码：zust <br>
